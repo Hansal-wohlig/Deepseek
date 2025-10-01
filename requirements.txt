@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+yfinance
+confluent-kafka
+absl-py
+python-dateutil

@@ -1,0 +1,404 @@
+2025-10-01 16:43:39,442 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 16:43:39,442 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 16:43:39,442 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 16:43:39,442 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 16:43:39,442 - __main__ - INFO - Starting model training...
+2025-10-01 16:43:39,442 - models.trainer - INFO - Training model for BTC-USD
+2025-10-01 16:43:46,217 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:43:53,875 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:44:09,288 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:44:17,088 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:44:21,079 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:44:47,253 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:45:15,235 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:46:01,938 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:46:46,088 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:47:28,351 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:47:28,369 - models.trainer - INFO - Model and scaler saved to /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/latest/model.h5
+2025-10-01 16:47:28,708 - models.trainer - INFO - Successfully trained model for BTC-USD
+2025-10-01 16:47:28,709 - models.trainer - INFO - Training model for ETH-USD
+2025-10-01 16:47:35,792 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:47:40,472 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:47:45,338 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:47:54,154 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:48:03,081 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:48:16,821 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:48:21,745 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:48:35,714 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:48:50,328 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:48:59,928 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:49:31,183 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:49:44,428 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:49:53,486 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:50:07,507 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:50:12,006 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:50:21,286 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:50:52,968 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:50:57,063 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:51:29,913 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:51:34,530 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:51:39,058 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:51:43,771 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:51:43,782 - models.trainer - INFO - Model and scaler saved to /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/ETH-USD/latest/model.h5
+2025-10-01 16:51:44,101 - models.trainer - INFO - Successfully trained model for ETH-USD
+2025-10-01 16:51:44,102 - models.trainer - INFO - Training model for ADA-USD
+2025-10-01 16:51:51,571 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:51:56,396 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:05,431 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:09,805 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:20,098 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:34,567 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:44,115 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:49,329 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:54,279 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:52:59,025 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:53:08,793 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:53:13,774 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:53:18,674 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:53:32,673 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:53:37,196 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:53:46,699 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:54:01,548 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:54:06,799 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:54:25,292 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:54:49,546 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:54:58,931 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:55:13,406 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:55:22,815 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:55:43,036 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:55:58,056 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 16:55:58,094 - models.trainer - INFO - Model and scaler saved to /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/ADA-USD/latest/model.h5
+2025-10-01 16:55:58,397 - models.trainer - INFO - Successfully trained model for ADA-USD
+2025-10-01 16:55:58,397 - __main__ - INFO - Training completed: 3 successful, 0 failed
+2025-10-01 16:55:58,397 - __main__ - INFO - BTC-USD: Loss=0.0006, MAE=0.0189
+2025-10-01 16:55:58,397 - __main__ - INFO - ETH-USD: Loss=0.0008, MAE=0.0208
+2025-10-01 16:55:58,397 - __main__ - INFO - ADA-USD: Loss=0.0003, MAE=0.0106
+2025-10-01 16:56:33,780 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 16:56:33,780 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 16:56:33,780 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 16:56:33,780 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 16:56:33,780 - __main__ - INFO - Starting stock data producer...
+2025-10-01 16:56:33,904 - __main__ - ERROR - Application error: name 'RealTimeDataCollector' is not defined
+2025-10-01 16:59:36,999 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 16:59:36,999 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 16:59:37,000 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 16:59:37,000 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 16:59:37,000 - __main__ - INFO - Starting stock data producer...
+2025-10-01 16:59:37,098 - streaming.producer - INFO - Starting Stock Data Producer
+2025-10-01 17:00:34,085 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:00:34,086 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:00:34,086 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:00:34,086 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:00:34,086 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 17:00:34,168 - __main__ - ERROR - Application error: PredictionConsumer.initialize_predictors() takes 1 positional argument but 2 were given
+2025-10-01 17:03:55,591 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:03:55,591 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:03:55,591 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:03:55,591 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:03:55,591 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 17:03:55,685 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 17:03:55,686 - utils.preprocessor - ERROR - Error loading scaler for BTC-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/online/scaler.pkl'
+2025-10-01 17:03:55,686 - models.trainer - WARNING - No model or scaler found for BTC-USD
+2025-10-01 17:03:55,819 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:03:55,825 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 17:03:56,613 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 17:03:56,614 - utils.preprocessor - ERROR - Error loading scaler for ETH-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/ETH-USD/online/scaler.pkl'
+2025-10-01 17:03:56,614 - models.trainer - WARNING - No model or scaler found for ETH-USD
+2025-10-01 17:03:56,664 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:03:56,666 - models.trainer - INFO - Model and scaler loaded for ETH-USD
+2025-10-01 17:03:57,091 - models.predictor - INFO - Predictor initialized for ETH-USD. Online learning: True
+2025-10-01 17:03:57,092 - utils.preprocessor - ERROR - Error loading scaler for ADA-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/ADA-USD/online/scaler.pkl'
+2025-10-01 17:03:57,092 - models.trainer - WARNING - No model or scaler found for ADA-USD
+2025-10-01 17:03:57,186 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:03:57,188 - models.trainer - INFO - Model and scaler loaded for ADA-USD
+2025-10-01 17:03:57,562 - models.predictor - INFO - Predictor initialized for ADA-USD. Online learning: True
+2025-10-01 17:03:57,563 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD, ETH-USD, ADA-USD
+2025-10-01 17:03:57,563 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 17:03:57,563 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 17:04:42,901 - streaming.consumer - INFO - BTC-USD: Current=$116369.38, Predicted=$nan, Change=+nan%
+2025-10-01 17:04:43,059 - streaming.consumer - INFO - ETH-USD: Current=$4300.33, Predicted=$nan, Change=+nan%
+2025-10-01 17:04:43,217 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:05:42,867 - streaming.consumer - INFO - BTC-USD: Current=$116409.73, Predicted=$nan, Change=+nan%
+2025-10-01 17:05:43,034 - streaming.consumer - INFO - ETH-USD: Current=$4301.95, Predicted=$nan, Change=+nan%
+2025-10-01 17:05:43,201 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:06:43,438 - streaming.consumer - INFO - BTC-USD: Current=$116480.68, Predicted=$nan, Change=+nan%
+2025-10-01 17:06:43,599 - streaming.consumer - INFO - ETH-USD: Current=$4302.19, Predicted=$nan, Change=+nan%
+2025-10-01 17:06:43,749 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:07:44,242 - streaming.consumer - INFO - BTC-USD: Current=$116480.68, Predicted=$nan, Change=+nan%
+2025-10-01 17:07:44,396 - streaming.consumer - INFO - ETH-USD: Current=$4302.97, Predicted=$nan, Change=+nan%
+2025-10-01 17:07:44,549 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:12:46,079 - streaming.consumer - INFO - BTC-USD: Current=$116530.16, Predicted=$nan, Change=+nan%
+2025-10-01 17:12:46,228 - streaming.consumer - INFO - ETH-USD: Current=$4295.77, Predicted=$nan, Change=+nan%
+2025-10-01 17:12:46,390 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:13:46,696 - streaming.consumer - INFO - BTC-USD: Current=$116526.24, Predicted=$nan, Change=+nan%
+2025-10-01 17:13:46,858 - streaming.consumer - INFO - ETH-USD: Current=$4295.77, Predicted=$nan, Change=+nan%
+2025-10-01 17:13:47,017 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:14:47,295 - streaming.consumer - INFO - BTC-USD: Current=$116525.86, Predicted=$nan, Change=+nan%
+2025-10-01 17:14:47,458 - streaming.consumer - INFO - ETH-USD: Current=$4296.50, Predicted=$nan, Change=+nan%
+2025-10-01 17:14:47,604 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:15:48,009 - streaming.consumer - INFO - BTC-USD: Current=$116555.30, Predicted=$nan, Change=+nan%
+2025-10-01 17:15:48,168 - streaming.consumer - INFO - ETH-USD: Current=$4296.89, Predicted=$nan, Change=+nan%
+2025-10-01 17:15:48,465 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:16:48,859 - streaming.consumer - INFO - BTC-USD: Current=$116591.98, Predicted=$nan, Change=+nan%
+2025-10-01 17:16:49,020 - streaming.consumer - INFO - ETH-USD: Current=$4296.89, Predicted=$nan, Change=+nan%
+2025-10-01 17:16:49,188 - streaming.consumer - INFO - ADA-USD: Current=$0.84, Predicted=$nan, Change=+nan%
+2025-10-01 17:17:23,334 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 17:17:31,666 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:17:31,666 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:17:31,666 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:17:31,666 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:17:31,666 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 17:17:31,772 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 17:17:31,773 - utils.preprocessor - ERROR - Error loading scaler for BTC-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/online/scaler.pkl'
+2025-10-01 17:17:31,773 - models.trainer - WARNING - No model or scaler found for BTC-USD
+2025-10-01 17:17:31,861 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:17:31,865 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 17:17:34,799 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 17:17:34,800 - utils.preprocessor - ERROR - Error loading scaler for ETH-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/ETH-USD/online/scaler.pkl'
+2025-10-01 17:17:34,800 - models.trainer - WARNING - No model or scaler found for ETH-USD
+2025-10-01 17:17:34,849 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:17:34,851 - models.trainer - INFO - Model and scaler loaded for ETH-USD
+2025-10-01 17:17:36,504 - models.predictor - INFO - Predictor initialized for ETH-USD. Online learning: True
+2025-10-01 17:17:36,505 - utils.preprocessor - ERROR - Error loading scaler for ADA-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/ADA-USD/online/scaler.pkl'
+2025-10-01 17:17:36,505 - models.trainer - WARNING - No model or scaler found for ADA-USD
+2025-10-01 17:17:36,550 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:17:36,551 - models.trainer - INFO - Model and scaler loaded for ADA-USD
+2025-10-01 17:17:38,689 - models.predictor - INFO - Predictor initialized for ADA-USD. Online learning: True
+2025-10-01 17:17:38,689 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD, ETH-USD, ADA-USD
+2025-10-01 17:17:38,689 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 17:17:38,689 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 17:17:52,522 - streaming.consumer - INFO - BTC-USD: Current=$116560.97, Predicted=$nan, Change=+nan%
+2025-10-01 17:17:53,462 - streaming.consumer - INFO - ETH-USD: Current=$4295.54, Predicted=$nan, Change=+nan%
+2025-10-01 17:17:54,380 - streaming.consumer - INFO - ADA-USD: Current=$0.83, Predicted=$nan, Change=+nan%
+2025-10-01 17:18:50,707 - streaming.consumer - INFO - BTC-USD: Current=$116560.97, Predicted=$nan, Change=+nan%
+2025-10-01 17:18:51,689 - streaming.consumer - INFO - ETH-USD: Current=$4295.42, Predicted=$nan, Change=+nan%
+2025-10-01 17:18:52,649 - streaming.consumer - INFO - ADA-USD: Current=$0.83, Predicted=$nan, Change=+nan%
+2025-10-01 17:19:21,224 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:19:21,224 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:19:21,224 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:19:21,224 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:19:21,224 - __main__ - INFO - Starting model training...
+2025-10-01 17:19:21,224 - models.trainer - INFO - Training model for BTC-USD
+2025-10-01 17:19:26,320 - __main__ - INFO - Application stopped by user
+2025-10-01 17:19:50,236 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:19:50,237 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:19:50,237 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:19:50,237 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:19:50,237 - __main__ - INFO - Starting model training...
+2025-10-01 17:19:50,237 - models.trainer - INFO - Training model for BTC-USD
+2025-10-01 17:19:51,337 - streaming.consumer - INFO - BTC-USD: Current=$116583.16, Predicted=$nan, Change=+nan%
+2025-10-01 17:19:52,266 - streaming.consumer - INFO - ETH-USD: Current=$4296.17, Predicted=$nan, Change=+nan%
+2025-10-01 17:19:53,263 - streaming.consumer - INFO - ADA-USD: Current=$0.83, Predicted=$nan, Change=+nan%
+2025-10-01 17:19:57,085 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 17:20:01,147 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 17:20:05,186 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 17:20:13,260 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 17:20:17,308 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 17:20:51,969 - streaming.consumer - INFO - BTC-USD: Current=$116597.26, Predicted=$nan, Change=+nan%
+2025-10-01 17:20:52,886 - streaming.consumer - INFO - ETH-USD: Current=$4297.43, Predicted=$nan, Change=+nan%
+2025-10-01 17:20:53,808 - streaming.consumer - INFO - ADA-USD: Current=$0.83, Predicted=$nan, Change=+nan%
+2025-10-01 17:20:59,245 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-01 17:20:59,264 - models.trainer - INFO - Model and scaler saved to /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/latest/model.h5
+2025-10-01 17:20:59,543 - models.trainer - INFO - Successfully trained model for BTC-USD
+2025-10-01 17:20:59,543 - __main__ - INFO - Training completed: 1 successful, 0 failed
+2025-10-01 17:20:59,543 - __main__ - INFO - BTC-USD: Loss=0.0017, MAE=0.0327
+2025-10-01 17:22:01,419 - yfinance - ERROR - $BTC-USD: possibly delisted; no price data found  (period=1d)
+2025-10-01 17:38:09,280 - yfinance - ERROR - $ETH-USD: possibly delisted; no price data found  (period=1d)
+2025-10-01 17:38:19,286 - yfinance - ERROR - $ADA-USD: possibly delisted; no price data found  (period=1d)
+2025-10-01 17:38:19,412 - streaming.producer - INFO - Producer interrupted by user
+2025-10-01 17:38:25,725 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 17:38:30,731 - __main__ - INFO - Application stopped by user
+2025-10-01 17:39:20,216 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:39:20,217 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:39:20,217 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:39:20,217 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:39:20,217 - __main__ - INFO - Starting stock data producer...
+2025-10-01 17:39:20,327 - streaming.producer - INFO - Starting Stock Data Producer
+2025-10-01 17:39:27,575 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:39:27,575 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:39:27,576 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:39:27,576 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:39:27,576 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 17:39:27,657 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 17:39:27,658 - utils.preprocessor - ERROR - Error loading scaler for BTC-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/online/scaler.pkl'
+2025-10-01 17:39:27,658 - models.trainer - WARNING - No model or scaler found for BTC-USD
+2025-10-01 17:39:27,753 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:39:27,757 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 17:39:28,403 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 17:39:28,403 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 17:39:28,403 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 17:39:28,403 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 17:39:32,052 - streaming.consumer - INFO - BTC-USD: Current=$116693.93, Predicted=$nan, Change=+nan%
+2025-10-01 17:40:21,727 - streaming.consumer - INFO - BTC-USD: Current=$116688.47, Predicted=$nan, Change=+nan%
+2025-10-01 17:41:22,066 - streaming.consumer - INFO - BTC-USD: Current=$116688.47, Predicted=$nan, Change=+nan%
+2025-10-01 17:42:22,318 - streaming.consumer - INFO - BTC-USD: Current=$116688.45, Predicted=$nan, Change=+nan%
+2025-10-01 17:43:22,506 - streaming.consumer - INFO - BTC-USD: Current=$116681.14, Predicted=$nan, Change=+nan%
+2025-10-01 17:44:04,521 - streaming.producer - INFO - Producer interrupted by user
+2025-10-01 17:44:09,673 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 17:44:18,564 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:44:18,564 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:44:18,564 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:44:18,564 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:44:18,564 - __main__ - INFO - Starting stock data producer...
+2025-10-01 17:44:18,684 - streaming.producer - INFO - Starting Stock Data Producer
+2025-10-01 17:44:21,867 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:44:21,867 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:44:21,867 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:44:21,868 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:44:21,868 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 17:44:21,950 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 17:44:21,951 - utils.preprocessor - ERROR - Error loading scaler for BTC-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/online/scaler.pkl'
+2025-10-01 17:44:21,951 - models.trainer - WARNING - No model or scaler found for BTC-USD
+2025-10-01 17:44:21,951 - utils.preprocessor - ERROR - Error loading scaler for BTC-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/online/scaler.pkl'
+2025-10-01 17:44:22,038 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:44:22,041 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 17:44:22,701 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 17:44:22,701 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 17:44:22,701 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 17:44:22,701 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 17:44:26,190 - streaming.consumer - INFO - BTC-USD: Current=$116707.00, Predicted=$nan, Change=+nan%
+2025-10-01 17:45:19,825 - streaming.consumer - INFO - BTC-USD: Current=$116707.00, Predicted=$nan, Change=+nan%
+2025-10-01 17:46:20,427 - streaming.consumer - INFO - BTC-USD: Current=$116726.26, Predicted=$nan, Change=+nan%
+2025-10-01 17:47:20,702 - streaming.consumer - INFO - BTC-USD: Current=$116721.30, Predicted=$nan, Change=+nan%
+2025-10-01 17:48:20,940 - streaming.consumer - INFO - BTC-USD: Current=$116733.85, Predicted=$nan, Change=+nan%
+2025-10-01 17:49:21,124 - streaming.consumer - INFO - BTC-USD: Current=$116733.85, Predicted=$nan, Change=+nan%
+2025-10-01 17:50:21,623 - streaming.consumer - INFO - BTC-USD: Current=$116811.63, Predicted=$nan, Change=+nan%
+2025-10-01 17:51:21,607 - streaming.consumer - INFO - BTC-USD: Current=$116811.63, Predicted=$nan, Change=+nan%
+2025-10-01 17:52:21,854 - streaming.consumer - INFO - BTC-USD: Current=$116829.53, Predicted=$nan, Change=+nan%
+2025-10-01 17:53:22,007 - streaming.consumer - INFO - BTC-USD: Current=$116889.35, Predicted=$nan, Change=+nan%
+2025-10-01 17:54:22,369 - streaming.consumer - INFO - BTC-USD: Current=$116889.35, Predicted=$nan, Change=+nan%
+2025-10-01 17:55:22,600 - streaming.consumer - INFO - BTC-USD: Current=$116828.12, Predicted=$nan, Change=+nan%
+2025-10-01 17:56:22,850 - streaming.consumer - INFO - BTC-USD: Current=$116791.45, Predicted=$nan, Change=+nan%
+2025-10-01 17:57:23,098 - streaming.consumer - INFO - BTC-USD: Current=$116750.77, Predicted=$nan, Change=+nan%
+2025-10-01 17:58:23,444 - streaming.consumer - INFO - BTC-USD: Current=$116794.43, Predicted=$nan, Change=+nan%
+2025-10-01 17:59:26,933 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 17:59:26,933 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 17:59:26,933 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 17:59:26,933 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 17:59:26,933 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 17:59:27,053 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 17:59:27,054 - utils.preprocessor - ERROR - Error loading scaler for BTC-USD: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/BTC-USD/online/scaler.pkl'
+2025-10-01 17:59:27,054 - models.trainer - WARNING - No model or scaler found for BTC-USD
+2025-10-01 17:59:27,054 - models.predictor - INFO - Online model for BTC-USD not found, attempting to use latest and create online version.
+2025-10-01 17:59:27,140 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:59:27,143 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 17:59:27,145 - models.predictor - INFO - Copied latest model and scaler to online path for BTC-USD.
+2025-10-01 17:59:27,187 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 17:59:27,189 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 17:59:28,004 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 17:59:28,004 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 17:59:28,004 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 17:59:28,004 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 17:59:38,471 - streaming.consumer - INFO - BTC-USD: Current=$116790.92, Predicted=$nan, Change=+nan%
+2025-10-01 18:00:23,766 - streaming.consumer - INFO - BTC-USD: Current=$116756.06, Predicted=$nan, Change=+nan%
+2025-10-01 18:01:24,094 - streaming.consumer - INFO - BTC-USD: Current=$116747.87, Predicted=$nan, Change=+nan%
+2025-10-01 18:02:03,247 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 18:02:10,888 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 18:02:10,888 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 18:02:10,888 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 18:02:10,888 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 18:02:10,888 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 18:02:10,972 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 18:02:11,045 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 18:02:11,047 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 18:02:11,701 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 18:02:11,701 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 18:02:11,701 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 18:02:11,701 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 18:02:27,290 - streaming.consumer - INFO - BTC-USD: Current=$116721.68, Predicted=$nan, Change=+nan%
+2025-10-01 18:03:27,495 - streaming.consumer - INFO - BTC-USD: Current=$116669.62, Predicted=$nan, Change=+nan%
+2025-10-01 18:04:27,621 - streaming.consumer - INFO - BTC-USD: Current=$116626.70, Predicted=$nan, Change=+nan%
+2025-10-01 18:04:30,630 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 18:04:41,326 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 18:04:41,326 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 18:04:41,326 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 18:04:41,326 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 18:04:41,326 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 18:04:41,431 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 18:04:41,506 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 18:04:41,509 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 18:04:42,660 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 18:04:42,660 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 18:04:42,660 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 18:04:42,660 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 18:05:27,719 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:05:27,719 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:05:27,719 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:05:27,719 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:05:28,191 - streaming.consumer - INFO - BTC-USD: Current=$116593.66, Predicted=$nan, Change=+nan%
+2025-10-01 18:05:56,267 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 18:05:56,288 - __main__ - INFO - Application stopped by user
+2025-10-01 18:06:21,755 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 18:06:21,755 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 18:06:21,755 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 18:06:21,755 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 18:06:21,755 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 18:06:21,840 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 18:06:21,914 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 18:06:21,916 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 18:06:22,711 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 18:06:22,711 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 18:06:22,711 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 18:06:22,711 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 18:06:27,972 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:06:27,972 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:06:27,972 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:06:27,972 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:06:28,354 - streaming.consumer - INFO - BTC-USD: Current=$116610.73, Predicted=$nan, Change=+nan%
+2025-10-01 18:07:28,180 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:07:28,181 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:07:28,181 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:07:28,181 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:07:28,329 - streaming.consumer - INFO - BTC-USD: Current=$116610.73, Predicted=$nan, Change=+nan%
+2025-10-01 18:08:28,369 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:08:28,369 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:08:28,370 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:08:28,371 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:08:28,505 - streaming.consumer - INFO - BTC-USD: Current=$116614.44, Predicted=$nan, Change=+nan%
+2025-10-01 18:09:28,621 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:09:28,623 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:09:28,623 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:09:28,625 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:09:28,762 - streaming.consumer - INFO - BTC-USD: Current=$116593.28, Predicted=$nan, Change=+nan%
+2025-10-01 18:10:28,848 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:10:28,849 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:10:28,849 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:10:28,850 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:10:28,992 - streaming.consumer - INFO - BTC-USD: Current=$116570.22, Predicted=$nan, Change=+nan%
+2025-10-01 18:11:29,056 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:11:29,056 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:11:29,057 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:11:29,057 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:11:29,199 - streaming.consumer - INFO - BTC-USD: Current=$116559.38, Predicted=$nan, Change=+nan%
+2025-10-01 18:12:29,274 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:12:29,275 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:12:29,275 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:12:29,276 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:12:29,411 - streaming.consumer - INFO - BTC-USD: Current=$116636.95, Predicted=$nan, Change=+nan%2025-10-01 18:13:29,478 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:13:29,478 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:13:29,478 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:13:29,479 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:13:29,734 - streaming.consumer - INFO - BTC-USD: Current=$116636.95, Predicted=$nan, Change=+nan%
+2025-10-01 18:14:29,702 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:14:29,703 - utils.preprocessor - INFO - Inference data contains NaN: True
+2025-10-01 18:14:29,703 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:14:29,705 - utils.preprocessor - INFO - Scaled inference data contains NaN: True
+2025-10-01 18:14:29,854 - streaming.consumer - INFO - BTC-USD: Current=$116622.44, Predicted=$nan, Change=+nan%
+2025-10-01 18:14:48,908 - streaming.consumer - INFO - Consumer interrupted by user
+2025-10-01 18:14:59,719 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-01 18:14:59,719 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-01 18:14:59,719 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-01 18:14:59,719 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-01 18:14:59,719 - __main__ - INFO - Starting prediction consumer...
+2025-10-01 18:14:59,862 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-01 18:14:59,959 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 18:14:59,962 - models.trainer - INFO - Model and scaler loaded for BTC-USD
+2025-10-01 18:15:00,463 - models.predictor - INFO - Predictor initialized for BTC-USD. Online learning: True
+2025-10-01 18:15:00,463 - streaming.consumer - INFO - Successfully initialized predictors for: BTC-USD
+2025-10-01 18:15:00,463 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-01 18:15:00,463 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-01 18:15:29,911 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-01 18:15:29,911 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-01 18:15:29,911 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-01 18:15:29,912 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-01 18:15:30,280 - streaming.consumer - INFO - BTC-USD: Current=$116557.23, Predicted=$110561.55, Change=-5.14%
