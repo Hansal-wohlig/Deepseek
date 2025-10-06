@@ -402,3 +402,881 @@
 2025-10-01 18:15:29,911 - utils.preprocessor - INFO - Scaler is fitted: True
 2025-10-01 18:15:29,912 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
 2025-10-01 18:15:30,280 - streaming.consumer - INFO - BTC-USD: Current=$116557.23, Predicted=$110561.55, Change=-5.14%
+2025-10-03 09:56:31,606 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-03 09:56:31,606 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-03 09:56:31,606 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-03 09:56:31,606 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-03 09:56:31,606 - __main__ - INFO - Starting model training...
+2025-10-03 09:56:31,606 - models.trainer - INFO - Training model for RELIANCE.NS
+2025-10-03 09:56:37,093 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:56:45,560 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:56:52,143 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:57:10,111 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:57:30,582 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:57:39,620 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:57:57,457 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:58:10,865 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:58:29,742 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:58:32,979 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:59:01,241 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:59:07,349 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 09:59:07,397 - models.trainer - INFO - Model and scaler saved to /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/RELIANCE.NS/latest/model.h5
+2025-10-03 09:59:07,597 - models.trainer - INFO - Successfully trained model for RELIANCE.NS
+2025-10-03 09:59:07,597 - __main__ - INFO - Training completed: 1 successful, 0 failed
+2025-10-03 09:59:07,597 - __main__ - INFO - RELIANCE.NS: Loss=0.0006, MAE=0.0200
+2025-10-03 10:06:28,776 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-03 10:06:28,776 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-03 10:06:28,776 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-03 10:06:28,776 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-03 10:06:28,776 - __main__ - INFO - Starting stock data producer...
+2025-10-03 10:06:28,889 - streaming.producer - INFO - Starting Stock Data Producer
+2025-10-03 10:17:45,661 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-03 10:17:45,661 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-03 10:17:45,661 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-03 10:17:45,661 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-03 10:17:45,661 - __main__ - INFO - Starting stock data producer...
+2025-10-03 10:17:45,769 - streaming.producer - INFO - Starting Stock Data Producer
+2025-10-03 10:18:24,614 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-03 10:18:24,615 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-03 10:18:24,615 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-03 10:18:24,615 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-03 10:18:24,615 - __main__ - INFO - Starting prediction consumer...
+2025-10-03 10:18:24,725 - streaming.consumer - INFO - Initializing prediction models...
+2025-10-03 10:18:24,727 - utils.preprocessor - ERROR - Error loading scaler for RELIANCE.NS: [Errno 2] No such file or directory: '/Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/RELIANCE.NS/online/scaler.pkl'
+2025-10-03 10:18:24,727 - models.trainer - WARNING - No model or scaler found for RELIANCE.NS
+2025-10-03 10:18:24,727 - models.predictor - INFO - Online model for RELIANCE.NS not found, attempting to load latest model.
+2025-10-03 10:18:24,832 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-03 10:18:24,835 - models.trainer - INFO - Model and scaler loaded for RELIANCE.NS
+2025-10-03 10:18:25,528 - models.predictor - INFO - Predictor initialized for RELIANCE.NS. Online learning: True
+2025-10-03 10:18:25,529 - streaming.consumer - INFO - Successfully initialized predictors for: RELIANCE.NS
+2025-10-03 10:18:25,529 - streaming.consumer - INFO - Online learning is ENABLED
+2025-10-03 10:18:25,529 - streaming.consumer - INFO - Starting Prediction Consumer
+2025-10-03 10:18:28,662 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:18:28,662 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:18:28,662 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:18:28,663 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:18:29,108 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.30, Predicted=$1353.07, Change=-0.60%
+2025-10-03 10:18:50,902 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:18:50,903 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:18:50,903 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:18:50,904 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:18:51,105 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.40, Predicted=$1352.81, Change=-0.63%
+2025-10-03 10:19:51,640 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:19:51,640 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:19:51,640 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:19:51,641 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:19:51,821 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.60, Predicted=$1352.72, Change=-0.73%
+2025-10-03 10:20:52,380 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:20:52,381 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:20:52,381 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:20:52,383 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:20:52,584 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.90, Predicted=$1352.86, Change=-0.74%
+2025-10-03 10:21:53,094 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:21:53,098 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:21:53,098 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:21:53,100 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:21:53,309 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.50, Predicted=$1353.18, Change=-0.68%
+2025-10-03 10:22:53,725 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:22:53,725 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:22:53,725 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:22:53,725 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:22:53,910 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.60, Predicted=$1353.56, Change=-0.66%
+2025-10-03 10:23:54,447 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:23:54,448 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:23:54,448 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:23:54,450 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:23:54,679 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.90, Predicted=$1353.87, Change=-0.66%
+2025-10-03 10:24:55,121 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:24:55,122 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:24:55,122 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:24:55,122 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:24:55,328 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.90, Predicted=$1354.05, Change=-0.65%
+2025-10-03 10:25:55,836 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:25:55,840 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:25:55,840 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:25:55,842 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:25:56,042 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.90, Predicted=$1354.09, Change=-0.65%
+2025-10-03 10:26:56,612 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:26:56,613 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:26:56,613 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:26:56,615 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:26:56,833 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.90, Predicted=$1354.03, Change=-0.65%
+2025-10-03 10:27:57,307 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:27:57,308 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:27:57,308 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:27:57,310 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:27:57,604 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.90, Predicted=$1353.94, Change=-0.66%
+2025-10-03 10:28:58,062 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:28:58,062 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:28:58,062 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:28:58,064 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:28:58,299 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.20, Predicted=$1353.90, Change=-0.68%
+2025-10-03 10:29:58,737 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:29:58,738 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:29:58,738 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:29:58,739 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:29:58,966 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.50, Predicted=$1353.96, Change=-0.70%
+2025-10-03 10:30:59,497 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:30:59,497 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:30:59,497 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:30:59,497 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:30:59,899 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.50, Predicted=$1354.16, Change=-0.76%
+2025-10-03 10:32:00,230 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:32:00,231 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:32:00,231 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:32:00,233 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:32:00,520 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.90, Predicted=$1354.47, Change=-0.69%
+2025-10-03 10:33:00,899 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:33:00,903 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:33:00,903 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:33:00,904 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:33:01,105 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.90, Predicted=$1354.83, Change=-0.74%
+2025-10-03 10:34:01,624 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:34:01,625 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:34:01,625 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:34:01,626 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:34:01,827 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.90, Predicted=$1355.19, Change=-0.71%
+2025-10-03 10:35:02,298 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:35:02,299 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:35:02,300 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:35:02,302 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:35:02,495 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.90, Predicted=$1355.47, Change=-0.69%
+2025-10-03 10:36:02,972 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:36:02,973 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:36:02,973 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:36:02,975 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:36:03,169 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.90, Predicted=$1355.64, Change=-0.68%
+2025-10-03 10:37:03,752 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:37:03,753 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:37:03,753 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:37:03,755 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:37:03,963 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.90, Predicted=$1355.70, Change=-0.67%
+2025-10-03 10:38:04,471 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:38:04,472 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:38:04,472 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:38:04,474 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:38:04,677 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.90, Predicted=$1355.68, Change=-0.68%
+2025-10-03 10:39:05,106 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:39:05,107 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:39:05,107 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:39:05,107 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:39:05,295 - streaming.consumer - INFO - RELIANCE.NS: Current=$1364.20, Predicted=$1355.61, Change=-0.63%
+2025-10-03 10:40:05,826 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:40:05,827 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:40:05,828 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:40:05,830 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:40:06,015 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.40, Predicted=$1355.46, Change=-0.58%
+2025-10-03 10:41:06,515 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:41:06,516 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:41:06,517 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:41:06,518 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:41:06,723 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.20, Predicted=$1355.20, Change=-0.59%
+2025-10-03 10:42:07,197 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:42:07,198 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:42:07,198 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:42:07,200 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:42:07,447 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.70, Predicted=$1354.84, Change=-0.58%
+2025-10-03 10:43:07,846 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:43:07,847 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:43:07,847 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:43:07,847 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:43:08,053 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.30, Predicted=$1354.41, Change=-0.58%
+2025-10-03 10:44:08,632 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:44:08,637 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:44:08,637 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:44:08,652 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:44:08,974 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.20, Predicted=$1353.97, Change=-0.60%
+2025-10-03 10:45:09,341 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:45:09,343 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:45:09,343 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:45:09,344 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:45:09,537 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.60, Predicted=$1353.57, Change=-0.59%
+2025-10-03 10:46:11,856 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:46:11,857 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:46:11,857 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:46:11,857 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:46:12,039 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.30, Predicted=$1353.23, Change=-0.59%
+2025-10-03 10:47:12,720 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:47:12,721 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:47:12,721 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:47:12,722 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:47:12,938 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.30, Predicted=$1352.97, Change=-0.61%
+2025-10-03 10:48:13,450 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:48:13,451 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:48:13,451 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:48:13,452 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:48:13,677 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.30, Predicted=$1352.79, Change=-0.63%
+2025-10-03 10:49:14,171 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:49:14,172 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:49:14,172 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:49:14,174 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:49:14,376 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.30, Predicted=$1352.63, Change=-0.56%
+2025-10-03 10:50:14,883 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:50:14,885 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:50:14,885 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:50:14,886 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:50:15,057 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.10, Predicted=$1352.48, Change=-0.63%
+2025-10-03 10:51:15,618 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:51:15,619 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:51:15,619 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:51:15,620 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:51:15,836 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.50, Predicted=$1352.40, Change=-0.67%
+2025-10-03 10:52:16,342 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:52:16,343 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:52:16,343 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:52:16,347 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:52:16,653 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1352.36, Change=-0.60%
+2025-10-03 10:53:17,026 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:53:17,027 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:53:17,027 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:53:17,029 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:53:17,266 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.40, Predicted=$1352.34, Change=-0.59%
+2025-10-03 10:54:17,878 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:54:17,879 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:54:17,879 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:54:17,880 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:54:18,093 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.70, Predicted=$1352.31, Change=-0.62%
+2025-10-03 10:55:18,498 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:55:18,499 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:55:18,499 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:55:18,501 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:55:18,692 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.60, Predicted=$1352.26, Change=-0.61%
+2025-10-03 10:56:19,174 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:56:19,176 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:56:19,176 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:56:19,177 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:56:19,486 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.80, Predicted=$1352.17, Change=-0.56%
+2025-10-03 10:57:19,854 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:57:19,856 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:57:19,856 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:57:19,857 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:57:20,050 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.50, Predicted=$1351.94, Change=-0.48%
+2025-10-03 10:58:20,590 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:58:20,591 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:58:20,591 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:58:20,593 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:58:20,811 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.30, Predicted=$1351.60, Change=-0.57%
+2025-10-03 10:59:21,281 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 10:59:21,281 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 10:59:21,281 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 10:59:21,282 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 10:59:21,503 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.40, Predicted=$1351.23, Change=-0.60%
+2025-10-03 11:00:22,024 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:00:22,026 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:00:22,026 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:00:22,027 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:00:22,308 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.60, Predicted=$1350.97, Change=-0.63%
+2025-10-03 11:01:22,779 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:01:22,781 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:01:22,781 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:01:22,783 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:01:23,078 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.70, Predicted=$1350.89, Change=-0.65%
+2025-10-03 11:02:23,472 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:02:23,473 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:02:23,473 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:02:23,474 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:02:23,665 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.40, Predicted=$1350.96, Change=-0.62%
+2025-10-03 11:03:24,123 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:03:24,123 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:03:24,124 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:03:24,125 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:03:24,297 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.70, Predicted=$1351.07, Change=-0.56%
+2025-10-03 11:04:24,787 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:04:24,788 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:04:24,788 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:04:24,789 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:04:25,006 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.10, Predicted=$1351.13, Change=-0.59%
+2025-10-03 11:05:25,447 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:05:25,448 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:05:25,448 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:05:25,449 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:05:25,627 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.10, Predicted=$1351.09, Change=-0.59%
+2025-10-03 11:06:26,163 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:06:26,164 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:06:26,164 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:06:26,165 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:06:26,466 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.10, Predicted=$1350.98, Change=-0.60%
+2025-10-03 11:07:26,916 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:07:26,917 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:07:26,917 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:07:26,920 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:07:27,233 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.10, Predicted=$1350.84, Change=-0.61%
+2025-10-03 11:08:27,609 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:08:27,610 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:08:27,610 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:08:27,612 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:08:27,831 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.10, Predicted=$1350.73, Change=-0.62%
+2025-10-03 11:09:28,331 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:09:28,332 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:09:28,332 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:09:28,334 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:09:28,527 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.20, Predicted=$1350.69, Change=-0.63%
+2025-10-03 11:10:28,998 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:10:29,000 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:10:29,000 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:10:29,002 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:10:29,235 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.20, Predicted=$1350.72, Change=-0.62%
+2025-10-03 11:11:29,737 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:11:29,738 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:11:29,738 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:11:29,739 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:11:29,980 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.20, Predicted=$1350.80, Change=-0.62%
+2025-10-03 11:12:30,537 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:12:30,538 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:12:30,538 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:12:30,540 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:12:30,794 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.90, Predicted=$1350.87, Change=-0.59%
+2025-10-03 11:13:31,279 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:13:31,280 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:13:31,280 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:13:31,282 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:13:31,482 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.90, Predicted=$1350.87, Change=-0.59%
+2025-10-03 11:14:31,980 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:14:31,981 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:14:31,981 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:14:31,982 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:14:32,171 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.50, Predicted=$1350.82, Change=-0.57%
+2025-10-03 11:15:32,743 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:15:32,744 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:15:32,744 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:15:32,745 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:15:33,066 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.90, Predicted=$1350.72, Change=-0.60%
+2025-10-03 11:16:33,382 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:16:33,383 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:16:33,383 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:16:33,385 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:16:33,584 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.70, Predicted=$1350.65, Change=-0.67%
+2025-10-03 11:17:34,069 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:17:34,070 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:17:34,070 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:17:34,071 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:17:34,262 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.70, Predicted=$1350.74, Change=-0.73%
+2025-10-03 11:18:34,738 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:18:34,738 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:18:34,739 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:18:34,739 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:18:34,930 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.00, Change=-0.70%
+2025-10-03 11:19:35,425 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:19:35,426 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:19:35,426 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:19:35,428 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:19:35,610 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.37, Change=-0.67%
+2025-10-03 11:20:36,092 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:20:36,093 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:20:36,093 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:20:36,095 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:20:36,286 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.74, Change=-0.64%
+2025-10-03 11:21:36,778 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:21:36,779 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:21:36,779 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:21:36,781 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:21:36,967 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.99, Change=-0.63%
+2025-10-03 11:22:37,444 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:22:37,445 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:22:37,445 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:22:37,450 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:22:37,668 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.00, Predicted=$1352.06, Change=-0.58%
+2025-10-03 11:23:38,124 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:23:38,126 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:23:38,126 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:23:38,128 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:23:38,432 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.40, Predicted=$1351.96, Change=-0.62%
+2025-10-03 11:24:38,781 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:24:38,782 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:24:38,782 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:24:38,784 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:24:38,989 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.77, Change=-0.64%
+2025-10-03 11:25:39,492 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:25:39,493 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:25:39,493 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:25:39,499 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:25:39,723 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.60, Predicted=$1351.61, Change=-0.66%
+2025-10-03 11:26:40,139 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:26:40,140 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:26:40,140 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:26:40,149 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:26:40,361 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.60, Predicted=$1351.56, Change=-0.66%
+2025-10-03 11:27:40,844 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:27:40,847 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:27:40,847 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:27:40,850 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:27:41,082 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.60, Predicted=$1351.63, Change=-0.66%
+2025-10-03 11:28:41,584 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:28:41,586 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:28:41,586 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:28:41,589 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:28:41,806 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.90, Predicted=$1351.80, Change=-0.67%
+2025-10-03 11:29:42,254 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:29:42,255 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:29:42,256 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:29:42,256 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:29:42,447 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.96, Change=-0.63%
+2025-10-03 11:30:42,971 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:30:42,971 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:30:42,972 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:30:42,973 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:30:43,267 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.50, Predicted=$1352.01, Change=-0.55%
+2025-10-03 11:31:43,614 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:31:43,614 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:31:43,614 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:31:43,615 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:31:43,981 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.40, Predicted=$1351.86, Change=-0.56%
+2025-10-03 11:32:44,268 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:32:44,268 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:32:44,268 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:32:44,268 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:32:44,442 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.70, Predicted=$1351.55, Change=-0.60%
+2025-10-03 11:33:44,893 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:33:44,894 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:33:44,894 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:33:44,895 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:33:45,199 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.80, Predicted=$1351.22, Change=-0.63%
+2025-10-03 11:40:00,027 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:40:00,028 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:40:00,028 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:40:00,029 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:40:00,345 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.90, Predicted=$1350.98, Change=-0.66%
+2025-10-03 11:40:44,192 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:40:44,192 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:40:44,193 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:40:44,193 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:40:44,787 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.00, Predicted=$1350.92, Change=-0.67%
+2025-10-03 11:41:44,541 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:41:44,542 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:41:44,542 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:41:44,542 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:41:44,733 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.80, Predicted=$1350.95, Change=-0.58%
+2025-10-03 11:42:44,906 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:42:44,907 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:42:44,907 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:42:44,908 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:42:45,126 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.40, Predicted=$1351.02, Change=-0.62%
+2025-10-03 11:43:45,166 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:43:45,167 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:43:45,167 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:43:45,167 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:43:45,343 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.50, Predicted=$1351.05, Change=-0.62%
+2025-10-03 11:44:45,412 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:44:45,412 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:44:45,412 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:44:45,412 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:44:45,602 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.80, Predicted=$1351.04, Change=-0.64%
+2025-10-03 11:45:45,664 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:45:45,664 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:45:45,664 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:45:45,665 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:45:45,960 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.40, Predicted=$1351.01, Change=-0.62%
+2025-10-03 11:46:45,953 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:46:45,954 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:46:45,955 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:46:45,955 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:46:46,156 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.00, Predicted=$1350.94, Change=-0.59%
+2025-10-03 11:47:46,286 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:47:46,287 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:47:46,287 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:47:46,287 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:47:46,512 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.90, Predicted=$1350.83, Change=-0.59%
+2025-10-03 11:48:46,537 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:48:46,537 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:48:46,537 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:48:46,538 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:48:46,727 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.90, Predicted=$1350.70, Change=-0.60%
+2025-10-03 11:49:46,891 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:49:46,892 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:49:46,892 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:49:46,892 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:49:47,079 - streaming.consumer - INFO - RELIANCE.NS: Current=$1358.90, Predicted=$1350.58, Change=-0.61%
+2025-10-03 11:50:47,153 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:50:47,153 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:50:47,153 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:50:47,154 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:50:47,346 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.00, Predicted=$1350.50, Change=-0.63%
+2025-10-03 11:51:47,403 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:51:47,403 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:51:47,403 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:51:47,403 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:51:47,565 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.50, Predicted=$1350.49, Change=-0.66%
+2025-10-03 11:53:32,443 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:53:32,443 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:53:32,443 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:53:32,443 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:53:32,618 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.90, Predicted=$1350.60, Change=-0.68%
+2025-10-03 11:54:32,691 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:54:32,691 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:54:32,691 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:54:32,692 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:54:32,906 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.90, Predicted=$1350.81, Change=-0.67%
+2025-10-03 11:55:33,033 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:55:33,034 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:55:33,034 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:55:33,035 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:55:33,239 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.90, Predicted=$1351.05, Change=-0.65%
+2025-10-03 11:56:33,360 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:56:33,361 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:56:33,361 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:56:33,362 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:56:33,597 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.90, Predicted=$1351.27, Change=-0.63%
+2025-10-03 11:57:33,625 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:57:33,625 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:57:33,625 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:57:33,625 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:57:33,809 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.80, Predicted=$1351.40, Change=-0.62%
+2025-10-03 11:58:14,197 - __main__ - INFO - Stock Prediction System Initialized
+2025-10-03 11:58:14,198 - __main__ - INFO - Models directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models
+2025-10-03 11:58:14,198 - __main__ - INFO - Data directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/data
+2025-10-03 11:58:14,198 - __main__ - INFO - Logs directory: /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/logs
+2025-10-03 11:58:14,198 - __main__ - INFO - Starting model training...
+2025-10-03 11:58:14,198 - models.trainer - INFO - Training model for HDFCBANK.NS
+2025-10-03 11:58:20,063 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:58:22,826 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:58:33,871 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:58:33,872 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:58:33,872 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:58:33,873 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:58:34,058 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.10, Predicted=$1351.44, Change=-0.64%
+2025-10-03 11:58:43,393 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:58:58,017 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:59:03,843 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:59:12,544 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:59:21,283 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:59:33,068 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:59:34,170 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 11:59:34,170 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 11:59:34,170 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 11:59:34,170 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 11:59:34,344 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.30, Predicted=$1351.43, Change=-0.65%
+2025-10-03 11:59:44,844 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 11:59:59,535 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 12:00:14,215 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 12:00:23,080 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 12:00:31,938 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 12:00:34,483 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:00:34,483 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:00:34,483 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:00:34,483 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:00:34,662 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.40, Predicted=$1351.43, Change=-0.66%
+2025-10-03 12:00:43,736 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-03 12:00:43,747 - models.trainer - INFO - Model and scaler saved to /Users/hansal.bhangale/Desktop/Stock price prediction/Deepseek/saved_models/HDFCBANK.NS/latest/model.h5
+2025-10-03 12:00:43,930 - models.trainer - ERROR - Error training model for HDFCBANK.NS: too many values to unpack (expected 3)
+2025-10-03 12:00:43,930 - models.trainer - ERROR - Failed to train model for HDFCBANK.NS: too many values to unpack (expected 3)
+2025-10-03 12:00:43,931 - __main__ - ERROR - Application error: 'NoneType' object has no attribute 'items'
+2025-10-03 12:01:34,791 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:01:34,791 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:01:34,791 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:01:34,791 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:01:34,996 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.50, Predicted=$1351.48, Change=-0.66%
+2025-10-03 12:02:35,108 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:02:35,108 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:02:35,108 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:02:35,108 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:02:35,300 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.90, Predicted=$1351.61, Change=-0.68%
+2025-10-03 12:03:35,396 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:03:35,949 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:03:35,949 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:03:35,949 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:03:35,949 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:03:35,949 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:03:35,949 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:03:36,317 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.90, Predicted=$1351.79, Change=-0.67%
+2025-10-03 12:04:35,693 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:04:35,737 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:04:35,737 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:04:35,737 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:04:35,738 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:04:35,738 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:04:35,738 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:04:36,208 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.70, Predicted=$1351.98, Change=-0.64%
+2025-10-03 12:05:35,946 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:05:36,004 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:05:36,004 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:05:36,007 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:05:36,007 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:05:36,007 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:05:36,007 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:05:36,276 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.60, Predicted=$1352.10, Change=-0.62%
+2025-10-03 12:06:36,309 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:06:36,342 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:06:36,343 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:06:36,343 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:06:36,343 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:06:36,343 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:06:36,343 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:06:36,572 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.20, Predicted=$1352.16, Change=-0.66%
+2025-10-03 12:07:36,604 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:07:36,633 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:07:36,633 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:07:36,633 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:07:36,633 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:07:36,633 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:07:36,633 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:07:36,881 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.60, Predicted=$1352.20, Change=-0.69%
+2025-10-03 12:08:36,877 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:08:36,921 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:08:36,921 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:08:36,922 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:08:36,922 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:08:36,922 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:08:36,922 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:08:37,187 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.70, Predicted=$1352.28, Change=-0.69%
+2025-10-03 12:09:37,158 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:09:37,197 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:09:37,197 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:09:37,198 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:09:37,198 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:09:37,198 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:09:37,198 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:09:37,468 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.70, Predicted=$1352.42, Change=-0.68%
+2025-10-03 12:10:37,436 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:10:37,475 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:10:37,476 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:10:37,476 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:10:37,476 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:10:37,476 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:10:37,476 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:10:37,685 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.80, Predicted=$1352.54, Change=-0.61%
+2025-10-03 12:11:37,785 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:11:37,826 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:11:37,826 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:11:37,827 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:11:37,827 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:11:37,827 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:11:37,827 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:11:38,105 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.30, Predicted=$1352.61, Change=-0.64%
+2025-10-03 12:12:38,158 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:12:38,209 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:12:38,209 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:12:38,209 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:12:38,209 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:12:38,210 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:12:38,210 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:12:38,435 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.60, Predicted=$1352.62, Change=-0.66%
+2025-10-03 12:13:38,445 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:13:38,486 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:13:38,486 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:13:38,487 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:13:38,487 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:13:38,487 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:13:38,487 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:13:38,712 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.40, Predicted=$1352.66, Change=-0.72%
+2025-10-03 12:14:38,806 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:14:38,846 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:14:38,846 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:14:38,847 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:14:38,847 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:14:38,847 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:14:38,847 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:14:39,181 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.30, Predicted=$1352.75, Change=-0.70%
+2025-10-03 12:15:39,079 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:15:39,113 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:15:39,113 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:15:39,114 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:15:39,114 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:15:39,114 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:15:39,114 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:15:39,390 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.30, Predicted=$1352.92, Change=-0.69%
+2025-10-03 12:16:39,395 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:16:39,415 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:16:39,416 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:16:39,416 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:16:39,416 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:16:39,416 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:16:39,416 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:16:39,654 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.00, Predicted=$1353.04, Change=-0.58%
+2025-10-03 12:17:39,756 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:17:39,795 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:17:39,795 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:17:39,796 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:17:39,796 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:17:39,796 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:17:39,796 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:17:40,044 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.80, Predicted=$1353.03, Change=-0.57%
+2025-10-03 12:18:40,618 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:18:40,652 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:18:40,652 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:18:40,652 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:18:40,652 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:18:40,652 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:18:40,652 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:18:40,924 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.90, Predicted=$1352.90, Change=-0.66%
+2025-10-03 12:19:40,950 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:19:40,976 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:19:40,976 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:19:40,976 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:19:40,976 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:19:40,976 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:19:40,976 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:19:41,342 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.90, Predicted=$1352.68, Change=-0.60%
+2025-10-03 12:20:41,256 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:20:41,276 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:20:41,277 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:20:41,277 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:20:41,277 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:20:41,277 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:20:41,277 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:20:41,573 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.00, Predicted=$1352.45, Change=-0.63%
+2025-10-03 12:21:41,601 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:21:41,638 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:21:41,638 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:21:41,638 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:21:41,638 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:21:41,638 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:21:41,638 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:21:42,038 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.20, Predicted=$1352.28, Change=-0.66%
+2025-10-03 12:22:41,950 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:22:41,994 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:22:41,995 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:22:41,995 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:22:41,995 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:22:41,995 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:22:41,995 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:22:42,222 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.00, Predicted=$1352.18, Change=-0.65%
+2025-10-03 12:23:42,268 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:23:42,292 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:23:42,292 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:23:42,292 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:23:42,292 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:23:42,292 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:23:42,293 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:23:42,547 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.10, Predicted=$1352.19, Change=-0.65%
+2025-10-03 12:24:42,522 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:24:42,539 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:24:42,539 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:24:42,540 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:24:42,540 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:24:42,540 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:24:42,540 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:24:42,817 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.50, Predicted=$1352.28, Change=-0.68%
+2025-10-03 12:25:42,868 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:25:42,894 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:25:42,895 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:25:42,895 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:25:42,895 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:25:42,895 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:25:42,895 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:25:43,151 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.70, Predicted=$1352.43, Change=-0.68%
+2025-10-03 12:26:43,137 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:26:43,181 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:26:43,181 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:26:43,182 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:26:43,182 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:26:43,182 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:26:43,182 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:26:43,442 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.90, Predicted=$1352.62, Change=-0.68%
+2025-10-03 12:27:44,514 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:27:44,546 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:27:44,547 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:27:44,548 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:27:44,548 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:27:44,549 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:27:44,551 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:27:44,803 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.70, Predicted=$1352.78, Change=-0.66%
+2025-10-03 12:28:44,892 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:28:44,927 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:28:44,928 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:28:44,928 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:28:44,928 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:28:44,928 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:28:44,928 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:28:45,440 - streaming.consumer - INFO - RELIANCE.NS: Current=$1362.70, Predicted=$1352.94, Change=-0.72%
+2025-10-03 12:29:45,266 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:29:45,286 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:29:45,286 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:29:45,286 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:29:45,286 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:29:45,286 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:29:45,286 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:29:45,540 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.70, Predicted=$1353.06, Change=-0.63%
+2025-10-03 12:30:46,118 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:30:46,156 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:30:46,156 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:30:46,156 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:30:46,157 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:30:46,157 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:30:46,157 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:30:47,167 - streaming.consumer - INFO - RELIANCE.NS: Current=$1361.40, Predicted=$1353.10, Change=-0.61%
+2025-10-03 12:31:46,423 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:31:46,464 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:31:46,464 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:31:46,465 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:31:46,465 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:31:46,465 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:31:46,465 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:31:46,831 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.70, Predicted=$1353.01, Change=-0.57%
+2025-10-03 12:52:24,251 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:52:24,293 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:52:24,293 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:52:24,293 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:52:24,293 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:52:24,293 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:52:24,293 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:52:25,689 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.10, Predicted=$1352.75, Change=-0.54%
+2025-10-03 12:52:50,414 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:52:50,453 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:52:50,453 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:52:50,454 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:52:50,454 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:52:50,454 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:52:50,454 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:52:50,743 - streaming.consumer - INFO - RELIANCE.NS: Current=$1359.90, Predicted=$1352.38, Change=-0.55%
+2025-10-03 12:53:51,085 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 12:53:51,124 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 12:53:51,124 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 12:53:51,124 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 12:53:51,125 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 12:53:51,125 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 12:53:51,125 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 12:53:51,379 - streaming.consumer - INFO - RELIANCE.NS: Current=$1360.20, Predicted=$1351.98, Change=-0.60%
+2025-10-03 14:55:08,773 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 14:55:08,820 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 14:55:08,820 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 14:55:08,820 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 14:55:08,820 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 14:55:08,820 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 14:55:08,820 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 14:55:09,205 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.90, Predicted=$1351.87, Change=-0.88%
+2025-10-03 18:59:08,409 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 18:59:08,454 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 18:59:08,455 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 18:59:08,455 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 18:59:08,455 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 18:59:08,455 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 18:59:08,455 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 18:59:08,813 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.40, Predicted=$1352.18, Change=-0.82%
+2025-10-03 20:48:27,209 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 20:48:27,237 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 20:48:27,237 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 20:48:27,238 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 20:48:27,238 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 20:48:27,238 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 20:48:27,238 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 20:48:27,589 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.40, Predicted=$1352.86, Change=-0.77%
+2025-10-03 20:48:27,591 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 20:48:27,611 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 20:48:27,611 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 20:48:27,612 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 20:48:27,612 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 20:48:27,612 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 20:48:27,612 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 20:48:27,923 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.40, Predicted=$1353.69, Change=-0.71%
+2025-10-03 23:03:06,613 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-03 23:03:06,640 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-03 23:03:06,640 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-03 23:03:06,640 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-03 23:03:06,640 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-03 23:03:06,640 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-03 23:03:06,640 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-03 23:03:06,822 - streaming.consumer - INFO - RELIANCE.NS: Current=$1363.40, Predicted=$1354.38, Change=-0.66%
+2025-10-04 01:56:54,767 - yfinance - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (period=1d)
+2025-10-04 03:07:11,386 - models.trainer - INFO - Starting online learning update for RELIANCE.NS
+2025-10-04 03:07:11,676 - models.online_learning - ERROR - Error preparing online data for RELIANCE.NS: tuple index out of range
+2025-10-04 03:07:11,676 - models.trainer - WARNING - No online data prepared for RELIANCE.NS
+2025-10-04 03:07:11,677 - utils.preprocessor - INFO - Inference data shape: (60, 1)
+2025-10-04 03:07:11,677 - utils.preprocessor - INFO - Inference data contains NaN: False
+2025-10-04 03:07:11,677 - utils.preprocessor - INFO - Scaler is fitted: True
+2025-10-04 03:07:11,677 - utils.preprocessor - INFO - Scaled inference data contains NaN: False
+2025-10-04 03:23:39,664 - yfinance - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (period=1d)
+2025-10-04 03:23:39,664 - streaming.consumer - INFO - RELIANCE.NS: Current=$0.00, Predicted=$1354.77, Change=+0.00%
+2025-10-04 03:23:39,665 - streaming.consumer - ERROR - Kafka error: KafkaError{code=_MAX_POLL_EXCEEDED,val=-147,str="Application maximum poll interval (300000ms) exceeded by 687525ms"}
+2025-10-04 07:11:07,241 - yfinance - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (period=1d)
+2025-10-04 12:06:39,474 - yfinance - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (period=1d)
+2025-10-05 12:13:33,392 - yfinance - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (period=1d)

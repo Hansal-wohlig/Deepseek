@@ -1,0 +1,16 @@
+python main.py --mode train --tickers RELIANCE.NS
+
+kafka-topics.sh --bootstrap-server localhost:9092 --list 
+
+
+kafka-topics --create \
+  --topic stock_prices \
+  --bootstrap-server localhost:9092 \
+  --partitions 1 \
+  --replication-factor 1
+
+
+python main.py --mode produce --tickers RELIANCE.NS
+
+
+python main.py --mode consume --tickers RELIANCE.NS

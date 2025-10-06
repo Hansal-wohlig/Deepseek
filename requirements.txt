@@ -1,9 +1,16 @@
-tensorflow
-pandas
-numpy
-scikit-learn
-matplotlib
-yfinance
-confluent-kafka
-absl-py
-python-dateutil
+tensorflow>=2.10.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+yfinance>=0.2.0
+confluent-kafka>=1.9.2
+absl-py>=1.0.0
+python-dateutil>=2.8.2
+ta>=0.10.0  # Technical analysis library
+pandas-ta>=0.3.14  # Alternative technical analysis
+nltk>=3.7  # For sentiment analysis
+transformers>=4.20.0  # For advanced NLP models
+scipy>=1.7.0  # For technical indicators
+joblib>=1.1.0  # For model persistence
+kafka-python>=2.0.2  # Additional Kafka support
